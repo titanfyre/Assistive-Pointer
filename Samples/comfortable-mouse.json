@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "description": "Illustrative values to select manually; not an import format",
+  "gain": 0.65,
+  "axis_restriction": "free",
+  "motion_aggregation_counts": 0,
+  "debounce_ms": 0,
+  "emergency_stop": "Ctrl+Alt+F12"
+}
