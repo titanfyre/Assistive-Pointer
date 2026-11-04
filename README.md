@@ -38,9 +38,15 @@ Device discovery reads the active capture snapshot every 500 ms; each transforme
 
 ## Demo and production licenses
 
+The matching Interceptor-Keyboard-Mouse demo driver source is available; see
+[driver/README.md](driver/README.md) for build instructions and separate
+evaluation-source terms. Those terms apply to Titan-authored driver code. Third-party
+source licenses and existing application/SDK licenses remain applicable. Full/commercial
+implementation and private signing or activation material are excluded.
+
 Every application feature and its user-mode source are available. The driver is a **one-hour demo**, counted from the first capture after Windows starts and shared across applications using that driver. At expiry it returns to passthrough. Windows **Restart** starts another evaluation period.
 
-For the production driver without the demo timer, company deployment, OEM integration or support: in Discord, choose **Friends -> Add Friend**, enter **`titancsa`**, and mention **Assistive Pointer**. The production driver's commercial terms are separate from this application's MIT source license. No customer activation key or private kernel source is included.
+For the production driver without the demo timer, company deployment, OEM integration or support: in Discord, choose **Friends -> Add Friend**, enter **`titancsa`**, and mention **Assistive Pointer**. The production driver's commercial terms are separate from this application's MIT source license. No customer activation key or full/commercial kernel implementation is included.
 
 ## Build and verify
 
