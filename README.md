@@ -2,17 +2,6 @@
 
 **Simple motion adjustments for one selected mouse on Windows 10/11 x64.** Tune gain, restrict motion to an axis, and optionally reduce small movements or repeated clicks through [Interceptor Keyboard & Mouse](https://github.com/TitanCSA/Interceptor-Keyboard-Mouse).
 
-<!-- full-version-contact:start -->
-> [!IMPORTANT]
-> **Get the full driver version without demo restrictions**
->
-> **Discord username: `titancsa`**
->
-> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Assistive Pointer**.
->
-> The demo limit belongs to **Interceptor Keyboard & Mouse**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
-<!-- full-version-contact:end -->
-
 ![Offline preview](docs/Preview.png)
 
 Changes happen in the input path. Other mice and keyboard input pass through unchanged. No automatic clicks, background recording or network input service is started.
@@ -72,3 +61,15 @@ Install and activate its corresponding production driver separately with the sup
 
 The application and SDK user-mode sources use the MIT license; see `LICENSE` and `SDK/LICENSE`. Bundled driver binaries use `Dependencies/BINARY-LICENSE.txt`. Use the software only on systems you are authorized to control. You remain responsible for your actions and applicable rules. No warranty or promise of universal compatibility is provided, and liability is limited subject to applicable law.
 
+## Commercial integration and support
+
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the full driver version without demo restrictions**
+>
+> **Discord username: `titancsa`**
+>
+> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Assistive Pointer**.
+>
+> The demo limit belongs to **Interceptor Keyboard & Mouse**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
+<!-- full-version-contact:end -->
