@@ -3,7 +3,11 @@
 <!-- simple-start:start -->
 Adjust how the mouse pointer moves for one mouse.
 
-**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Assistive-Pointer/releases/latest). Open PowerShell in that folder and run the command below.
+[First steps](#first-steps) · [Develop](#build-and-verify) · [Maintain](https://github.com/TitanCSA/sdk-packages/blob/main/CONTRIBUTING.md)
+
+## First steps
+
+Extract the [Windows ZIP](https://github.com/titanfyre/Assistive-Pointer/releases/latest). Open PowerShell in that folder and run the command below.
 
 ```powershell
 .\AssistivePointer.exe --preview
