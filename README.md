@@ -3,7 +3,13 @@
 <!-- simple-start:start -->
 Adjust how the mouse pointer moves for one mouse.
 
-**Start here.** Open the app and try the controls in preview. Live changes need the matching keyboard and mouse driver.
+**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Assistive-Pointer/releases/latest). Open PowerShell in that folder and run the command below.
+
+```powershell
+.\AssistivePointer.exe --preview
+```
+
+The app opens with sample data. [See the first-run guide](https://titancsa.github.io/guides/first-run/#pointer).
 <!-- simple-start:end -->
 
 <!-- full-version-contact:start -->
