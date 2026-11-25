@@ -1,5 +1,15 @@
 # Assistive Pointer
 
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the version without the one-hour demo limit**
+>
+> **Discord · `titancsa`**. Open [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send a message.
+> Mention **Assistive-Pointer** and ask for the full **Interceptor Keyboard & Mouse** driver. TitanCSA will share the purchase details privately.
+>
+> **FR · Version sans la limite d’une heure.** Ajoute **`titancsa`** sur Discord et envoie le nom du projet. Le lien d’achat est communiqué en privé.
+<!-- full-version-contact:end -->
+
 **Simple motion adjustments for one selected mouse on Windows 10/11 x64.** Tune gain, restrict motion to an axis, and optionally reduce small movements or repeated clicks through [Interceptor Keyboard & Mouse](https://github.com/TitanCSA/Interceptor-Keyboard-Mouse).
 
 ![Offline preview](docs/Preview.png)
@@ -63,13 +73,4 @@ The application and SDK user-mode sources use the MIT license; see `LICENSE` and
 
 ## Commercial integration and support
 
-<!-- full-version-contact:start -->
-> [!IMPORTANT]
-> **Get the full driver version without demo restrictions**
->
-> **Discord username: `titancsa`**
->
-> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Assistive Pointer**.
->
-> The demo limit belongs to **Interceptor Keyboard & Mouse**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
-<!-- full-version-contact:end -->
+
