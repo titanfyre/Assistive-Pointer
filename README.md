@@ -1,13 +1,16 @@
 # Assistive Pointer
 
+<!-- simple-start:start -->
+Adjust how the mouse pointer moves for one mouse.
+
+**Start here.** Open the app and try the controls in preview. Live changes need the matching keyboard and mouse driver.
+<!-- simple-start:end -->
+
 <!-- full-version-contact:start -->
 > [!IMPORTANT]
-> **Get the version without the one-hour demo limit**
+> **Version without the one-hour demo limit**
 >
-> **Discord · `titancsa`**. Open [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send a message.
-> Mention **Assistive-Pointer** and ask for the full **Interceptor Keyboard & Mouse** driver. TitanCSA will share the purchase details privately.
->
-> **FR · Version sans la limite d’une heure.** Ajoute **`titancsa`** sur Discord et envoie le nom du projet. Le lien d’achat est communiqué en privé.
+> In [Discord](https://discord.com/app), choose **Add Friend** and enter **`titancsa`**. Mention **Assistive-Pointer** and ask for the full **Interceptor Keyboard & Mouse** driver. Purchase details are sent privately.
 <!-- full-version-contact:end -->
 
 **Simple motion adjustments for one selected mouse on Windows 10/11 x64.** Tune gain, restrict motion to an axis, and optionally reduce small movements or repeated clicks through [Interceptor Keyboard & Mouse](https://github.com/TitanCSA/Interceptor-Keyboard-Mouse).
@@ -72,5 +75,3 @@ Install and activate its corresponding production driver separately with the sup
 The application and SDK user-mode sources use the MIT license; see `LICENSE` and `SDK/LICENSE`. Bundled driver binaries use `Dependencies/BINARY-LICENSE.txt`. Use the software only on systems you are authorized to control. You remain responsible for your actions and applicable rules. No warranty or promise of universal compatibility is provided, and liability is limited subject to applicable law.
 
 ## Commercial integration and support
-
-
